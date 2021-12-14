@@ -616,6 +616,7 @@ h4 {
 .project-thumb {
   position: relative;
   padding-top: 0;
+  overflow: hidden;
 }
 .project-thumb::before {
   content: "";
